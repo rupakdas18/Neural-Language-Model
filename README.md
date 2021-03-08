@@ -21,10 +21,10 @@ Some Common Examples of Language Models
 
 
 In this example I built a Gated Recurrent Unit (GRU) Language Model.
-Programming Language: Python
-Libraries: PyTorch
-LM Type: GRU RNN 
-Dataset used: Wikitext-2
+1) Programming Language: Python
+2) Libraries: PyTorch
+3) LM Type: GRU RNN 
+4) Dataset used: Wikitext-2
 
 
 Inspired by:
